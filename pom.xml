@@ -63,7 +63,6 @@
         <module>java</module>
         <module>zeppelin-web</module>
         <module>zeppelin-server</module>
-        <module>zeppelin-jupyter</module>
         <module>zeppelin-plugins</module>
         <module>zeppelin-distribution</module>
     </modules>
