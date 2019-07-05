@@ -43,7 +43,10 @@
 
         <!--plugin versions-->
         <plugin.scala.version>2.15.2</plugin.scala.version>
-        <!-- spark versions -->
+        <!--scala versions-->        
+        <scala.version>2.12.8</scala.version>
+        <scala.binary.version>2.12</scala.binary.version>        
+        <!-- spark versions -->        
         <spark.version>3.0.0-SNAPSHOT</spark.version>
         <spark.scala.version>2.12.8</spark.scala.version>
         <spark.scala.binary.version>2.12</spark.scala.binary.version>

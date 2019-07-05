@@ -54,7 +54,7 @@
         <profile>
             <id>hadoop2-azure</id>
             <properties>
-                <hadoop.version>2.7.3</hadoop.version>
+                <hadoop.version>2.7.4</hadoop.version>
             </properties>
             <dependencies>
                 <dependency>
@@ -101,7 +101,7 @@
         <profile>
             <id>hadoop2-aws</id>
             <properties>
-                <hadoop.version>2.7.3</hadoop.version>
+                <hadoop.version>2.7.4</hadoop.version>
             </properties>
             <dependencies>
                 <dependency>
