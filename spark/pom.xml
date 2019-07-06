@@ -50,14 +50,14 @@
         <spark.version>3.0.0-SNAPSHOT</spark.version>
         <spark.scala.version>2.12.8</spark.scala.version>
         <spark.scala.binary.version>2.12</spark.scala.binary.version>
-        <py4j.version>0.10.7</py4j.version>
+        <py4j.version>0.10.8.1</py4j.version>
 
         <spark.archive>spark-${spark.version}</spark.archive>
         <spark.src.download.url>
-            https://archive.apache.org/dist/spark/${spark.archive}/${spark.archive}.tgz
+            http://localhost:8888/spark-3.0.0-SNAPSHOT.tgz
         </spark.src.download.url>
         <spark.bin.download.url>
-            https://archive.apache.org/dist/spark/${spark.archive}/${spark.archive}-bin-without-hadoop.tgz
+            http://localhost:8888/spark-3.0.0-SNAPSHOT-bin-2.7.4.tgz
         </spark.bin.download.url>
     </properties>
 
